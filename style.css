@@ -37,6 +37,7 @@ body {
 	height: 2.4rem;
 	background-color: white;
 	box-shadow: 0 0 2px #0000001f;
+	padding-left: .5rem;
 }
 .calculator .numbers-characters {
 	display: flex;
